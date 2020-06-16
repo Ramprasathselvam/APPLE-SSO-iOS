@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  APPLE SSO
 //
-//  Created by Konda Reddy on 10/06/20.
+//  Created by RamprasathSelvam on 10/06/20.
 //  Copyright © 2020 RamprasathSelvam. All rights reserved.
 //
 
